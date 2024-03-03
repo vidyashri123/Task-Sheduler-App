@@ -9,10 +9,19 @@ Technologies Used/Pre-requisites:
   * UI
   * Basic React
 
-#Approach
-The Task scheduler is user centric task management-based application. It stores task provided by user with priority of       importance
+# Approach
+
+  The Task scheduler is user centric task management-based application. It stores task provided by user with priority of       importance
 
 
-#The final project will look like this
+# The final project will look like this
 
-    ![gfg](https://github.com/vidyashri123/Task-Sheduler-App/assets/116086874/0952e829-1e11-40fd-92bb-9afb226f34c7)
+    
+![gfg](https://github.com/vidyashri123/Task-Sheduler-App/assets/116086874/22229f6f-b5ae-48d3-87eb-adeb3b06fb3d)
+
+
+
+# Final Output
+
+  
+![gfg](https://github.com/vidyashri123/Task-Sheduler-App/assets/116086874/9ef1b81d-ac3a-4793-9e9d-08c6ee59044d)
